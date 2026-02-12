@@ -29,7 +29,7 @@ Because a simple text isn't enough for the most important person in my life! Thi
 ## 🧑‍💻 **How to Use This Project**  
 1. **Customize the Content**:  
    - Replace text in `index.html`.  
-   - Replace images with your own (e.g., `truongan.png` with Mom's photo).  
+   - Replace images in the `assets/` folder with your own (e.g., `mom1.jpeg` to `mom8.jpeg` for the slider).  
 
 2. **Host It**:  
    - Deploy on GitHub Pages or Netlify.  
