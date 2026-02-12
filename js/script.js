@@ -78,6 +78,11 @@ const memories = [
         text: "May all your dreams come true today and always! 🎈"
     }
 ];
+// Image Preloader (Instant Loading)
+memories.forEach(memory => {
+    const img = new Image();
+    img.src = memory.img;
+});
 
 let currentMemory = 0;
 let isTyping = false;
