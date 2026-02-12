@@ -1,7 +1,7 @@
 # 🎂✨ Happy Birthday Mom! ✨💻  
 *A Code-Powered Birthday Gesture for Mom*  
 
-![Preview](./output.png)  
+![Preview](./assets/output.png)  
 
 ---
 
